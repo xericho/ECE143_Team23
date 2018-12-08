@@ -13,3 +13,11 @@ sudo pip install -r requirements.txt
 ```
 ## Jupyter Notebook
 `Final_Project.ipynb` contains the plots from the presentation.
+
+## Conclusion
+- Better to enter in Winter games (less athletes/competition)
+- Each country excel in certain sports
+  - Refined training programs
+  - More experience 
+- Use age vs height/weight plot to find recommended sport
+- More equality for female athletes
